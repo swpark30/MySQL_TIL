@@ -18,8 +18,17 @@
       - load_file()
     - MySQL 시스템 변수 : secure-file-priv 옵션 
     - 테이블 복사
+  
   - DCL(Data Control Language) : 데이터 제어어
-    - 
+    - 관리 기능
+    - 권한 (Privilage)
+    - 백업 및 복구(export / import)
+  
+  - JDBC (Java Database Connectivity)
+  
+    1. JDBC 드라이버 로드
+  
+    2. connection 객체 생성
 
 
 
